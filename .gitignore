@@ -1,0 +1,26 @@
+# CMake build dir + fetched deps (GoogleTest is pulled via FetchContent)
+build/
+build-*/
+cmake-build-*/
+_deps/
+CMakeFiles/
+CMakeCache.txt
+CTestTestfile.cmake
+compile_commands.json
+
+# Object / binary artifacts
+*.o
+*.obj
+*.a
+*.dylib
+*.so
+*.dSYM/
+
+# Env / secrets
+.env
+.env.*
+*.local
+
+# OS / editor
+.DS_Store
+*.log
