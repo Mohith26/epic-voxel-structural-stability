@@ -1,0 +1,21 @@
+{
+  "scenarios_total": 12,
+  "scenarios_pass": 12,
+  "runs_per_scenario": 3,
+  "instances_compared": 2,
+  "pass_rate": 1.0000,
+  "final_hashes": [
+    {"name": "tower10", "final_hash": "0x1ea269b8afb3174d"},
+    {"name": "tower25", "final_hash": "0x43ccd56e1aa08b13"},
+    {"name": "cantilever_6_18", "final_hash": "0x3ea7d0bfc7931b00"},
+    {"name": "bridge_6_14", "final_hash": "0x671c1a387c4d19fb"},
+    {"name": "floating_island", "final_hash": "0xe8b4ee294d12de63"},
+    {"name": "blob_s1_200", "final_hash": "0x4d3bc47d3780b9c4"},
+    {"name": "blob_s2_200", "final_hash": "0xcfd552b80ee6977c"},
+    {"name": "blob_s3_300", "final_hash": "0x1ccc90e518947e6f"},
+    {"name": "blob_s7_collapse", "final_hash": "0x4e7fea7f24d629a9"},
+    {"name": "blob_s11_collapse", "final_hash": "0x043186a1e3bffba7"},
+    {"name": "blob_s42_collapse", "final_hash": "0xdc6822d07ca4a3e8"},
+    {"name": "blob_s99_collapse", "final_hash": "0x2e20d36c99c5dd1f"}
+  ]
+}

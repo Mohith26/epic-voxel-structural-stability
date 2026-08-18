@@ -1,0 +1,11 @@
+{
+  "compiler": "clang 21.0.0 (clang-2100.0.123.102)",
+  "cpp_standard": 202002,
+  "box_height_layers": 10,
+  "sizes": [
+    {"n": 1000, "placed": 1000, "supported": 1000, "failing": 0, "tick_ms_median": 0.091375, "tick_ms_min": 0.089709, "pieces_per_sec": 10943912.4, "cascade_detect_ms": 0.068417, "collapse_settle_ms": 0.195041, "collapse_ticks": 3, "cascade_pieces": 900, "mem_delta_mb": 0.094, "mem_footprint_mb": 2.735},
+    {"n": 10000, "placed": 10000, "supported": 10000, "failing": 0, "tick_ms_median": 0.931208, "tick_ms_min": 0.887583, "pieces_per_sec": 10738739.4, "cascade_detect_ms": 0.636542, "collapse_settle_ms": 1.737750, "collapse_ticks": 3, "cascade_pieces": 8976, "mem_delta_mb": 1.156, "mem_footprint_mb": 3.985},
+    {"n": 100000, "placed": 100000, "supported": 100000, "failing": 0, "tick_ms_median": 9.245416, "tick_ms_min": 9.106125, "pieces_per_sec": 10816171.0, "cascade_detect_ms": 6.697917, "collapse_settle_ms": 17.634542, "collapse_ticks": 3, "cascade_pieces": 90000, "mem_delta_mb": 9.313, "mem_footprint_mb": 13.891}
+  ],
+  "peak_rss_mb": 21.141
+}

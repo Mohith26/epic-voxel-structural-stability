@@ -1,0 +1,15 @@
+{
+  "scenarios_total": 8,
+  "scenarios_pass": 8,
+  "pass_rate": 1.0000,
+  "cases": [
+    {"name": "tower5", "pass": true, "expected": {"supported": 5, "failing": 0, "unsupported": 0}, "got": {"supported": 5, "failing": 0, "unsupported": 0}},
+    {"name": "tower20", "pass": true, "expected": {"supported": 11, "failing": 9, "unsupported": 0}, "got": {"supported": 11, "failing": 9, "unsupported": 0}},
+    {"name": "cantilever_5_10", "pass": true, "expected": {"supported": 15, "failing": 0, "unsupported": 0}, "got": {"supported": 15, "failing": 0, "unsupported": 0}},
+    {"name": "cantilever_5_15", "pass": true, "expected": {"supported": 11, "failing": 9, "unsupported": 0}, "got": {"supported": 11, "failing": 9, "unsupported": 0}},
+    {"name": "bridge_5_10", "pass": true, "expected": {"supported": 20, "failing": 0, "unsupported": 0}, "got": {"supported": 20, "failing": 0, "unsupported": 0}},
+    {"name": "floating_island_3x3", "pass": true, "expected": {"supported": 0, "failing": 0, "unsupported": 9}, "got": {"supported": 0, "failing": 0, "unsupported": 9}},
+    {"name": "island_settles_supported", "pass": true, "expected": {"supported": 9, "failing": 0, "unsupported": 0}, "got": {"supported": 9, "failing": 0, "unsupported": 0}},
+    {"name": "cantilever_settles_stable", "pass": true, "expected": {"supported": 0, "failing": 0, "unsupported": 0}, "got": {"supported": 20, "failing": 0, "unsupported": 0}}
+  ]
+}

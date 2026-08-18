@@ -1,0 +1,9 @@
+{
+  "correctness_pass": 8,
+  "correctness_total": 8,
+  "determinism_pass": 12,
+  "determinism_total": 12,
+  "determinism_pass_rate": 1.0000,
+  "max_pieces": 100000,
+  "peak_rss_mb": 21.141
+}
